@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "work": "Work",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "headlinePart1": "Grow your brand's",
+    "headlineHighlight": " social presence",
+    "headlinePart2": " without the guesswork.",
+    "subheadline": "GoatedSocials is a social media marketing agency that turns scroll-stopping content, smart paid ads, and real strategy into measurable growth — so you can focus on running your business.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "See Our Work",
+    "noContract": "No long-term contracts",
+    "customStrategy": "Custom strategy for every client"
+  },
+  "stats": {
+    "items": [
+      { "value": "1M+", "label": "Followers Grown" },
+      { "value": "50+", "label": "Campaigns Run" },
+      { "value": "20+", "label": "Clients Served" },
+      { "value": "4.9/5", "label": "Average Client Rating" }
+    ]
+  },
+  "services": {
+    "headingPart1": "Everything you need to",
+    "headingHighlight": " grow on social",
+    "subheading": "One team, every service — strategy, content, ads, and reporting working together instead of in silos.",
+    "items": [
+      {
+        "title": "Social Media Management",
+        "description": "Full-service management of your profiles — posting, community engagement, and a content calendar built around your goals."
+      },
+      {
+        "title": "Content Creation",
+        "description": "Scroll-stopping graphics, short-form video, and copy crafted to match your brand voice and platform trends."
+      },
+      {
+        "title": "Paid Ads",
+        "description": "Data-driven ad campaigns across Meta, TikTok, and beyond — optimized continuously to lower cost and lift conversions."
+      },
+      {
+        "title": "Influencer Marketing",
+        "description": "Access to a vetted network of creators, matched to your niche for partnerships that feel authentic and drive results."
+      },
+      {
+        "title": "Analytics & Strategy",
+        "description": "Clear monthly reporting and a strategy that evolves with the data, so every dollar you spend works harder."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why GoatedSocials",
+    "heading": "We treat your brand like it's ours",
+    "description": "GoatedSocials started with a simple idea: agencies were charging premium prices for cookie-cutter content and copy-paste strategies. We built a leaner team of strategists, creators, and media buyers who actually dig into your brand — and it shows in the results.",
+    "benefits": [
+      "Dedicated strategist for every account, not a rotating cast",
+      "Transparent monthly reporting — no vanity metrics",
+      "Content built for your brand voice, not a template",
+      "Flexible month-to-month plans, no lock-in contracts"
+    ],
+    "statYears": "6+",
+    "statYearsLabel": "Years helping brands grow their social presence",
+    "statRetention": "98%",
+    "statRetentionLabel": "Client retention rate",
+    "statIndustries": "15+",
+    "statIndustriesLabel": "Industries served"
+  },
+  "work": {
+    "heading": "Some of our work",
+    "subheading": "A look at a few brands we've helped grow across platforms.",
+    "projects": [
+      {
+        "name": "Lumen Skincare",
+        "category": "Content + Paid Ads",
+        "result": "3.2x ROAS in 90 days"
+      },
+      {
+        "name": "Fernweg Coffee Co.",
+        "category": "Social Media Management",
+        "result": "+180K followers in 1 year"
+      },
+      {
+        "name": "Nimbus Fitness App",
+        "category": "Influencer Marketing",
+        "result": "40+ creator partnerships"
+      },
+      {
+        "name": "Wharf & Co.",
+        "category": "Analytics & Strategy",
+        "result": "2.5x engagement rate"
+      },
+      {
+        "name": "Aurora Home Goods",
+        "category": "Content Creation",
+        "result": "12M+ organic views"
+      },
+      {
+        "name": "Pulse Beverages",
+        "category": "Paid Ads",
+        "result": "58% lower cost-per-lead"
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Trusted by local businesses and creators",
+    "items": [
+      {
+        "quote": "Ever since we started with GoatedSocials, our shop has been full of new faces. The whole neighborhood watches our Reels now!",
+        "name": "Giorgos Papadopoulos",
+        "role": "Owner, Kafeneio Blend"
+      },
+      {
+        "quote": "Professional in every way. Our reservations grew noticeably within a few months. I recommend them without hesitation.",
+        "name": "Maria Konstantinou",
+        "role": "Owner, Taverna Thalassa"
+      },
+      {
+        "quote": "They helped me grow my profile and land my first brand partnerships. A team that truly cares.",
+        "name": "Eleni Nikolaou",
+        "role": "Content Creator / Influencer"
+      },
+      {
+        "quote": "They understand social media like no one else. Our engagement tripled, and it shows in our sales too.",
+        "name": "Dimitris Antoniou",
+        "role": "Owner, Burger Lab"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Ready to grow your social presence?",
+    "subheading": "Tell us a bit about your brand and goals. We'll get back to you within one business day with next steps.",
+    "followInstagram": "Follow us on Instagram",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "namePlaceholder": "Jane Doe",
+    "emailPlaceholder": "jane@brand.com",
+    "messagePlaceholder": "Tell us about your brand and goals...",
+    "sendButton": "Send Message",
+    "successTitle": "Message sent!",
+    "successMessage": "Thanks for reaching out — we'll be in touch soon."
+  },
+  "footer": {
+    "description": "A social media marketing agency helping brands grow with strategy, content, and paid media that actually performs.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "followUsDescription": "Follow us on Instagram for behind-the-scenes and client wins.",
+    "rightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}

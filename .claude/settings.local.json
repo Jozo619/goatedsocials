@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm view *)",
+      "Bash(npm audit *)",
+      "Bash(find \"/c/Users/giann/AppData/Local/Temp/claude\" -type f \\\\\\( -iname \"*.png\" -o -iname \"*.jpg\" -o -iname \"*.jpeg\" \\\\\\) -mmin -30 2>/dev/null)",
+      "Bash(find \"/c/Users/giann/AppData/Local/Temp\" -type f \\\\\\( -iname \"*.png\" -o -iname \"*.jpg\" -o -iname \"*.jpeg\" \\\\\\) -mmin -30 2>/dev/null | head -50)",
+      "Bash(find \"/c/Users/giann\" -maxdepth 6 -type f \\\\\\( -iname \"*.png\" -o -iname \"*.jpg\" -o -iname \"*.jpeg\" \\\\\\) -mmin -60 2>/dev/null | grep -v node_modules | head -50)",
+      "Bash(cp \"/c/Users/giann/Downloads/logo.png\" \"/c/Users/giann/OneDrive/Υπολογιστής/goatedsocials claude/public/logo.png\" && ls -la \"/c/Users/giann/OneDrive/Υπολογιστής/goatedsocials claude/public/\")"
+    ]
+  }
+}
