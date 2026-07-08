@@ -37,7 +37,7 @@ export default function ParticlesBackground({
     let width = 0;
     let height = 0;
     let particles: Particle[] = [];
-    let animationId: number;
+    let animationId = 0;
     const dpr = Math.min(window.devicePixelRatio || 1, 2);
 
     const createParticles = () => {
